@@ -1,4 +1,5 @@
 import React from 'react'
+import './Book.css'
 
 function Book(props) {
     
@@ -22,3 +23,4 @@ function Book(props) {
 }
 
 export default Book
+ 
